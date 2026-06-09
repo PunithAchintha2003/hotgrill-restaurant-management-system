@@ -31,7 +31,6 @@
 - [Browser Support](#browser-support)
 - [Troubleshooting](#troubleshooting)
 - [License](#license)
-- [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 - [Support](#support)
 
@@ -1285,11 +1284,6 @@ If you encounter issues not listed here:
 ## 📝 License
 
 This project is licensed under the ISC License.
-
-<a id="authors"></a>
-## 👥 Authors
-
-- **Development Team** - Year 3 Semester 1 Full-Stack Development
 
 <a id="acknowledgments"></a>
 ## 🙏 Acknowledgments
